@@ -1,6 +1,8 @@
 # ML-resources
 Useful resources for machine learning
 
+### Seq2Seq
+1. Easy introduction to transformers [see](http://jalammar.github.io/illustrated-transformer/). 
 ### Graph Neural network
 1. For basics of graph neural network (GNN) please [see](https://distill.pub/2021/gnn-intro/).
 2. [PyG](https://pytorch-geometric.readthedocs.io/) is pytorch based library for GNN. 
